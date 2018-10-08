@@ -1,8 +1,6 @@
 # SportsEquipmentManagementSystem
 
 
-# Sports Equipment Management
-
     This software system is designed to increase the efficiency and performance of the administration for proper allocation and management of the hostel sports equipment. This software can be used by any institute to manage the hostel sports equipment.  
  
  	Administration can use the software to allocate sports equipment to students, for personal use, as well as to sports society, for any sports competition. The software will check the availability of the required sports equipment whenever any issue request is made. Software will also keep track of the number of days student is holding some particular equipment and accordingly calculate fine if any.   
